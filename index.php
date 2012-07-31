@@ -1,4 +1,5 @@
 <?php
 
+# stuff
 echo phpinfo();
 ?>
